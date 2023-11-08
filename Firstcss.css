@@ -1,0 +1,56 @@
+#container {
+   background-image: url(https://as1.ftcdn.net/v2/jpg/05/08/79/56/1000_F_508795601_5rECFKeX795XWiLMi0qzpjCpmJUch1pl.jpg);   
+    width: auto;
+    background-color: grey;
+    border: 6px dashed black;
+    display: inline-block;
+    margin: 20px 20px 20px 50px;
+}  
+.btn{
+
+    background-image: url(./asset/coding.png);
+    background-repeat: no-repeat; 
+    background-position: right center; 
+    width: 15%;
+    text-align: left;
+    padding: 20px;
+    margin: 40px;
+    border-radius: 2rem;
+    background-color: green;
+    border: 6px solid #e74c3c;
+    display: inline-block;
+    font-size: 16px; 
+    transition: background-color .4s;
+}
+
+.btn:hover{
+
+    background-color: burlywood;
+    font-size: 18px;
+    
+}
+
+.btn:active{
+    background-color: aqua;
+    color: tomato;
+    font-size: 22px;
+    background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
